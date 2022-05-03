@@ -27,8 +27,8 @@ Syntax highlighted code block
 ```
 
 
-Go to [PDF document](documents/Dinosaur_Wikipedia_Article.pdf)
+Go to [PDF document](content-pdfs/Dinosaur_Wikipedia_Article.pdf)
 
-Go to [PDF documents directory](documents)
+Go to [PDF documents directory](content-pdfs)
 
-Go to [Dinosaur Content Website](dinos.md)
+Go to [Dinosaur Content Website](content-dinos/dinos.md)
