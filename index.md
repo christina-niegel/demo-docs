@@ -36,5 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-Go to [PDF document](https://github.com/christina-niegel/demo-docs/blob/gh-pages/documents/Dinosaur_Wikipedia_Article.pdf)
-Go to [documents directory](https://github.com/christina-niegel/demo-docs/tree/gh-pages/documents)
+Go to [PDF document](gh-pages/documents/Dinosaur_Wikipedia_Article.pdf)
+Go to [documents directory](gh-pages/documents)
