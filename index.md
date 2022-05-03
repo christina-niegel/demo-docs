@@ -29,6 +29,6 @@ Syntax highlighted code block
 
 Go to [PDF document](documents/Dinosaur_Wikipedia_Article.pdf)
 
-Go to [PDF documents directory](documents/)
+Go to [PDF documents directory](documents)
 
-Go to [Dinosaur Content Website]
+Go to [Dinosaur Content Website](dinos.md)
