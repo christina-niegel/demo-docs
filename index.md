@@ -26,16 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+Go to [PDF document](documents/Dinosaur_Wikipedia_Article.pdf)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christina-niegel/demo-docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Go to [PDF documents directory](documents/)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-Go to [PDF document](https://github.com/christina-niegel/demo-docs/blob/gh-pages/documents/Dinosaur_Wikipedia_Article.pdf)
-
-Go to [documents directory](https://github.com/christina-niegel/demo-docs/blob/gh-pages/documents)
+Go to [Dinosaur Content Website]
