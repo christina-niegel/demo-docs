@@ -12,8 +12,9 @@ While dinosaurs were ancestrally bipedal, many extinct groups included quadruped
 
 The first dinosaur fossils were recognized in the early 19th century, with the name "dinosaur" (meaning "terrible lizard") being coined by Sir Richard Owen in 1841 to refer to these "great fossil lizards". Since then, mounted fossil dinosaur skeletons have been major attractions at museums worldwide, and dinosaurs have become an enduring part of popular culture. The large sizes of some dinosaurs, as well as their seemingly monstrous and fantastic nature, have ensured their regular appearance in best-selling books and films, such as Jurassic Park. Persistent public enthusiasm for the animals has resulted in significant funding for dinosaur science, and new discoveries are regularly covered by the media. 
 
-![Restauration of Brontosaurus](src="hhttps://en.wikipedia.org/wiki/Dinosaur#/media/File:Pasta-Brontosaurus.jpg", "Restauration of Brontosaurus") This is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.
+<img src="https://en.wikipedia.org/wiki/Dinosaur#/media/File:Pasta-Brontosaurus.jpg">
 
+This is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.
 
 ## Definition
 
@@ -26,7 +27,10 @@ Birds are now recognized as being the sole surviving lineage of theropod dinosau
 Research by Matthew G. Baron, David B. Norman, and Paul M. Barrett in 2017 suggested a radical revision of dinosaurian systematics. Phylogenetic analysis by Baron et al. recovered the Ornithischia as being closer to the Theropoda than the Sauropodomorpha, as opposed to the traditional union of theropods with sauropodomorphs. They resurrected the clade Ornithoscelida to refer to the group containing Ornithischia and Theropoda. Dinosauria itself was re-defined as the last common ancestor of [Triceratops horridus](content-dinos-1/triceratops.md), Passer domesticus and Diplodocus carnegii, and all of its descendants, to ensure that sauropods and kin remain included as dinosaurs. 
 
 ## General description
-![image](https://en.wikipedia.org/wiki/Dinosaur#/media/File:LA-Triceratops_mount-2.jpg) Triceratops skeleton, Natural History Museum of Los Angeles County
+
+
+<img src="https://en.wikipedia.org/wiki/Dinosaur#/media/File:LA-Triceratops_mount-2.jpg">
+Triceratops skeleton, Natural History Museum of Los Angeles County
 
 Using one of the above definitions, dinosaurs can be generally described as archosaurs with hind limbs held erect beneath the body. Other prehistoric animals, including pterosaurs, mosasaurs, ichthyosaurs, plesiosaurs, and Dimetrodon, while often popularly conceived of as dinosaurs, are not taxonomically classified as dinosaurs. Pterosaurs are distantly related to dinosaurs, being members of the clade Ornithodira. The other groups mentioned are, like dinosaurs and pterosaurs, members of Sauropsida (the reptile and bird clade), except Dimetrodon (which is a synapsid). None of them had the erect hind limb posture characteristic of true dinosaurs.
 
