@@ -11,7 +11,7 @@ While dinosaurs were ancestrally bipedal, many extinct groups included quadruped
 
 The first dinosaur fossils were recognized in the early 19th century, with the name "dinosaur" (meaning "terrible lizard") being coined by Sir Richard Owen in 1841 to refer to these "great fossil lizards". Since then, mounted fossil dinosaur skeletons have been major attractions at museums worldwide, and dinosaurs have become an enduring part of popular culture. The large sizes of some dinosaurs, as well as their seemingly monstrous and fantastic nature, have ensured their regular appearance in best-selling books and films, such as Jurassic Park. Persistent public enthusiasm for the animals has resulted in significant funding for dinosaur science, and new discoveries are regularly covered by the media. 
 
-![This](https://en.wikipedia.org/wiki/Dinosaur#/media/File:Pasta-Brontosaurus.jpg) is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.
+![image](https://en.wikipedia.org/wiki/Dinosaur#/media/File:Pasta-Brontosaurus.jpg) This is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.
 
 ## Definition
 
@@ -24,7 +24,7 @@ Birds are now recognized as being the sole surviving lineage of theropod dinosau
 Research by Matthew G. Baron, David B. Norman, and Paul M. Barrett in 2017 suggested a radical revision of dinosaurian systematics. Phylogenetic analysis by Baron et al. recovered the Ornithischia as being closer to the Theropoda than the Sauropodomorpha, as opposed to the traditional union of theropods with sauropodomorphs. They resurrected the clade Ornithoscelida to refer to the group containing Ornithischia and Theropoda. Dinosauria itself was re-defined as the last common ancestor of [Triceratops horridus](content-dinos-1/triceratops.md), Passer domesticus and Diplodocus carnegii, and all of its descendants, to ensure that sauropods and kin remain included as dinosaurs. 
 
 ## General description
-![Triceratops skeleton](https://en.wikipedia.org/wiki/Dinosaur#/media/File:LA-Triceratops_mount-2.jpg), Natural History Museum of Los Angeles County
+![image](https://en.wikipedia.org/wiki/Dinosaur#/media/File:LA-Triceratops_mount-2.jpg) Triceratops skeleton, Natural History Museum of Los Angeles County
 
 Using one of the above definitions, dinosaurs can be generally described as archosaurs with hind limbs held erect beneath the body. Other prehistoric animals, including pterosaurs, mosasaurs, ichthyosaurs, plesiosaurs, and Dimetrodon, while often popularly conceived of as dinosaurs, are not taxonomically classified as dinosaurs. Pterosaurs are distantly related to dinosaurs, being members of the clade Ornithodira. The other groups mentioned are, like dinosaurs and pterosaurs, members of Sauropsida (the reptile and bird clade), except Dimetrodon (which is a synapsid). None of them had the erect hind limb posture characteristic of true dinosaurs.
 
@@ -56,13 +56,6 @@ Comparisons between the scleral rings of dinosaurs and modern birds and reptiles
 Based on fossil evidence from dinosaurs such as Oryctodromeus, some ornithischian species seem to have led a partially fossorial (burrowing) lifestyle. Many modern birds are arboreal (tree climbing), and this was also true of many Mesozoic birds, especially the enantiornithines. While some early bird-like species may have already been arboreal as well (including dromaeosaurids) such as Microraptor) most non-avialan dinosaurs seem to have relied on land-based locomotion. A good understanding of how dinosaurs moved on the ground is key to models of dinosaur behavior; the science of biomechanics, pioneered by Robert McNeill Alexander, has provided significant insight in this area. For example, studies of the forces exerted by muscles and gravity on dinosaurs' skeletal structure have investigated how fast dinosaurs could run, whether diplodocids could create sonic booms via whip-like tail snapping, and whether sauropods could float. 
 
 
-Go to subpages:
-[Brontosaurus](content-dinos-1/brontosaurus.md)
-[Stegosaurus](content-dinos-1/stegosaurus.md)
-[Triceratops](content-dinos-1/triceratops.md)
-[Tyrannosaurus](content-dinos-1/tyrannosaurus.md)
-[Velociraptor](content-dinos-1/velociraptor.md)
-
 
 
 
@@ -72,4 +65,4 @@ Go to subpages:
 
 
 
-This article uses material from the Wikipedia article [Dinosaur](https://en.wikipedia.org/wiki/Dinosaur), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")
+_This article uses material from the Wikipedia article [Dinosaur](https://en.wikipedia.org/wiki/Dinosaur), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")_
