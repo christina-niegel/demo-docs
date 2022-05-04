@@ -12,9 +12,16 @@ While dinosaurs were ancestrally bipedal, many extinct groups included quadruped
 
 The first dinosaur fossils were recognized in the early 19th century, with the name "dinosaur" (meaning "terrible lizard") being coined by Sir Richard Owen in 1841 to refer to these "great fossil lizards". Since then, mounted fossil dinosaur skeletons have been major attractions at museums worldwide, and dinosaurs have become an enduring part of popular culture. The large sizes of some dinosaurs, as well as their seemingly monstrous and fantastic nature, have ensured their regular appearance in best-selling books and films, such as Jurassic Park. Persistent public enthusiasm for the animals has resulted in significant funding for dinosaur science, and new discoveries are regularly covered by the media. 
 
-<img src="https://en.wikipedia.org/wiki/Dinosaur#/media/File:Pasta-Brontosaurus.jpg">
-
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pasta-Brontosaurus.jpg/1200px-Pasta-Brontosaurus.jpg"  width="250">
 This is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Definition
 
@@ -28,9 +35,7 @@ Research by Matthew G. Baron, David B. Norman, and Paul M. Barrett in 2017 sugge
 
 ## General description
 
-
-<img src="https://en.wikipedia.org/wiki/Dinosaur#/media/File:LA-Triceratops_mount-2.jpg">
-Triceratops skeleton, Natural History Museum of Los Angeles County
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LA-Triceratops_mount-2.jpg/1200px-LA-Triceratops_mount-2.jpg" width="250" title="Triceratops skeleton">
 
 Using one of the above definitions, dinosaurs can be generally described as archosaurs with hind limbs held erect beneath the body. Other prehistoric animals, including pterosaurs, mosasaurs, ichthyosaurs, plesiosaurs, and Dimetrodon, while often popularly conceived of as dinosaurs, are not taxonomically classified as dinosaurs. Pterosaurs are distantly related to dinosaurs, being members of the clade Ornithodira. The other groups mentioned are, like dinosaurs and pterosaurs, members of Sauropsida (the reptile and bird clade), except Dimetrodon (which is a synapsid). None of them had the erect hind limb posture characteristic of true dinosaurs.
 
@@ -67,8 +72,11 @@ Based on fossil evidence from dinosaurs such as Oryctodromeus, some ornithischia
 
 
 
-[Back to main page](/../index.md)
+
 
 
 
 _This article uses material from the Wikipedia article [Dinosaur](https://en.wikipedia.org/wiki/Dinosaur), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")_
+
+
+[Back to start page](/../index.md)
