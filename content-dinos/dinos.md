@@ -12,9 +12,8 @@ While dinosaurs were ancestrally bipedal, many extinct groups included quadruped
 
 The first dinosaur fossils were recognized in the early 19th century, with the name "dinosaur" (meaning "terrible lizard") being coined by Sir Richard Owen in 1841 to refer to these "great fossil lizards". Since then, mounted fossil dinosaur skeletons have been major attractions at museums worldwide, and dinosaurs have become an enduring part of popular culture. The large sizes of some dinosaurs, as well as their seemingly monstrous and fantastic nature, have ensured their regular appearance in best-selling books and films, such as Jurassic Park. Persistent public enthusiasm for the animals has resulted in significant funding for dinosaur science, and new discoveries are regularly covered by the media. 
 
-![Restauration of Brontosaurus](https://en.wikipedia.org/wiki/Dinosaur#/media/File:Pasta-Brontosaurus.jpg, "Restauration of Brontosaurus") This is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.
+![Restauration of Brontosaurus](src="hhttps://en.wikipedia.org/wiki/Dinosaur#/media/File:Pasta-Brontosaurus.jpg", "Restauration of Brontosaurus") This is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.
 
-<center><src="https://en.wikipedia.org/wiki/Dinosaur#/media/File:Pasta-Brontosaurus.jpg"></center>
 
 ## Definition
 
