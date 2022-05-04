@@ -4,4 +4,4 @@ Go to subpages:
 [Stegosaurus](content-dinos-1/stegosaurus.md)
 
 
-[Back to main page](index.md)
+[Back to main page](https://christina-niegel.github.io/demo-docs/index.md)
