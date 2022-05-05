@@ -1,2 +1,5 @@
 theme: jekyll-theme-architect
 title: Wikipedia Content
+github:
+  zip_url: https://github.com/christina-niegel/demo-docs/tree/gh-pages/content-pdfs/Dinosars_Wikipedia_Content_PDFs.zip
+  
