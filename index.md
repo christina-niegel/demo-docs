@@ -12,9 +12,9 @@ Please note that the provided content is released under the [Creative Commons At
 
 ### Content types
 
-We provide different types of content. All the content is about dinosaurs and only for demo purposes.
+We provide different types of content. All the content is about dinosaurs and only for demo purposes. You can choose between the following:
 
-1. You can either use a **webpage** with some hyperlinks to subpages: [Content Website](content-dinos/dinos.md)
+1. You can use a **webpage** with some hyperlinks to subpages: [Content Website](content-dinos/dinos.md)
 <br>
 
 2. You can download a set of PDFs in a **zip folder**: [Download PDF Content]({{ site.github.zip_url }})
