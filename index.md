@@ -1,34 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/christina-niegel/demo-docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+On this page we provide a couple of documents and texts that can be used for a demo. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Usage and licence
 
-### Markdown
-
-Markdown is a very lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Please note that the provided content is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/") and uses material from several [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) articles. On each page the origin Wikipedia source is referenced and linked.
 
 
-Go to [PDF document](content-pdfs/Dinosaur_Wikipedia_Article.pdf)
+### Content types
 
-Go to [PDF Content]({{ site.github.zip_url }})
+We provide different types of content. All the content is about dinosaurs and only for demo purposes.
 
-Go to [Dinosaur Content Website](content-dinos/dinos.md)
+1. You can either use a **webpage** with some hyperlinks to subpages: 
+
+- Go to [Content Website](content-dinos/dinos.md)
+
+
+
+2. You can download a set of PDFs in a **zip folder**:
+
+- [Download PDF Content]({{ site.github.zip_url }})
+
+
+
+3. You can go to a subpage where **single PDFs** are provided using download links:
+
+- Go to [PDF Website](content-pdfs/Dinosaur_Wikipedia_Article.pdf)
+
+
+
+
+
+
+
