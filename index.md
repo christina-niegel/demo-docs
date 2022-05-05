@@ -29,10 +29,6 @@ Syntax highlighted code block
 
 Go to [PDF document](content-pdfs/Dinosaur_Wikipedia_Article.pdf)
 
-Go to PDF Content
-<a href="{{ site.github.zip_url }}" class="button">
-          <small>Download</small>
-          .zip file
-</a>
+Go to [PDF Content](<a href="{{ site.github.zip_url }}" class="button"><small>Download</small>.zip file</a>)
 
 Go to [Dinosaur Content Website](content-dinos/dinos.md)
