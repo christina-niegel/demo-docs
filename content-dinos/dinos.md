@@ -16,7 +16,7 @@ The first dinosaur fossils were recognized in the early 19th century, with the n
 
 |<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pasta-Brontosaurus.jpg/1200px-Pasta-Brontosaurus.jpg"  width="500">        ||This is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.|
 
-
+<br>
 
 
 ## Definition
