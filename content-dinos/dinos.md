@@ -1,6 +1,6 @@
 # Dinosaurs
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Life_restoration_of_Iguanacolossus.jpg/1200px-Life_restoration_of_Iguanacolossus.jpg" alt="Life restoration of Iguanacolossus.jpg" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Life_restoration_of_Iguanacolossus.jpg/1200px-Life_restoration_of_Iguanacolossus.jpg" alt="Life restoration of Iguanacolossus.jpg" width="500">
 
 Dinosaurs are a diverse group of reptiles of the clade Dinosauria. They first appeared during the Triassic period, between 243 and 233.23 million years ago, although the exact origin and timing of the evolution of dinosaurs is the subject of active research. They became the dominant terrestrial vertebrates after the Triassic–Jurassic extinction event 201.3 million years ago; their dominance continued throughout the Jurassic and Cretaceous periods. The fossil record shows that birds are modern feathered dinosaurs, having evolved from earlier theropods during the Late Jurassic epoch, and are the only dinosaur lineage known to have survived the Cretaceous–Paleogene extinction event approximately 66 million years ago. Dinosaurs can therefore be divided into avian dinosaurs, or birds; and the extinct non-avian dinosaurs, which are all dinosaurs other than birds.
 
@@ -72,13 +72,14 @@ Based on fossil evidence from dinosaurs such as Oryctodromeus, some ornithischia
 ## Size
 
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Longest_dinosaur_by_clade.svg/1200px-Longest_dinosaur_by_clade.svg.png" alt="Longest dinosaur by clade.svg" width="400">
-Scale diagram comparing the average human to the longest known dinosaurs in five major clades:
-  Sauropoda (Supersaurus vivianae)
-  Ornithopoda (Shantungosaurus giganteus)
-  Theropoda (Spinosaurus aegyptiacus)
-  Thyreophora ([Stegosaurus ungulatus](content-dinos-1/stegosaurus.md))
-  Marginocephalia ([Triceratops prorsus](content-dinos-1/triceratops.md))
-
+Scale diagram comparing the average human to the longest known dinosaurs in five major clades:<br>
+  - Sauropoda (Supersaurus vivianae)<br>
+  - Ornithopoda (Shantungosaurus giganteus)<br>
+  - Theropoda (Spinosaurus aegyptiacus)<br>
+  - Thyreophora ([Stegosaurus ungulatus](content-dinos-1/stegosaurus.md))<br>
+  - Marginocephalia ([Triceratops prorsus](content-dinos-1/triceratops.md))<br>
+<br>
+<br>
 
 Current evidence suggests that dinosaur average size varied through the Triassic, Early Jurassic, Late Jurassic and Cretaceous. Predatory theropod dinosaurs, which occupied most terrestrial carnivore niches during the Mesozoic, most often fall into the 100 to 1000 kg (220 to 2200 lb) category when sorted by estimated weight into categories based on order of magnitude, whereas recent predatory carnivoran mammals peak in the 10 to 100 kg (22 to 220 lb) category. The mode of Mesozoic dinosaur body masses is between 1 to 10 metric tons (1.1 to 11.0 short tons). This contrasts sharply with the average size of Cenozoic mammals, estimated by the National Museum of Natural History as about 2 to 5 kg (4.4 to 11.0 lb).
 
