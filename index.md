@@ -17,7 +17,7 @@ We provide different types of content. All the content is about dinosaurs and on
 1. You can use a **webpage** with some hyperlinks to subpages: [Content Website](content-dinos/dinos.md)
 <br>
 
-2. You can go to a subpage where **single PDFs** are provided using download links: [PDF Website](content-pdfs/content_download.md)
+2. You can go to a page where **single PDFs** are provided via download links: [PDF Website](content-pdfs/content_download.md)
 <br>
 
 3. You can download a set of PDFs in a **zip folder**: [Download PDF Content]({{ site.github.zip_url }})
