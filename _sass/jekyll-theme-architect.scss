@@ -173,7 +173,7 @@ hr {
 
 table {
     width: 100%;
-    border: 1px solid #ebebeb;
+    border: 1px solid transparent;
 }
 
 th {
@@ -181,9 +181,9 @@ th {
 }
 
 td {
-    font-weight: 300;
-    text-align: center;
-    border: 1px solid #ebebeb;
+    font-weight: 400;
+    text-align: left;
+    border: 1px solid transparent;
 }
 
 form {
