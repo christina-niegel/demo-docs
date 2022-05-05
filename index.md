@@ -20,7 +20,7 @@ We provide different types of content. All the content is about dinosaurs and on
 2. You can download a set of PDFs in a **zip folder**: [Download PDF Content]({{ site.github.zip_url }})
 <br>
 
-3. You can go to a subpage where **single PDFs** are provided using download links: [PDF Website](content-pdfs/Dinosaur_Wikipedia_Article.pdf)
+3. You can go to a subpage where **single PDFs** are provided using download links: [PDF Website](content-pdfs/content_download.md)
 
 
 
