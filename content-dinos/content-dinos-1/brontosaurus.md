@@ -1,7 +1,7 @@
 # Brontosaurus
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Brontosaurus_by_Tom_Parker.png/1200px-Brontosaurus_by_Tom_Parker.png" alt="Brontosaurus by Tom Parker.png" width="300">
 
-Brontosaurus (/ˌbrɒntəˈsɔːrəs/; meaning "thunder lizard" from Greek βροντή, brontē "thunder" and σαῦρος, sauros "lizard") is a genus of gigantic quadruped sauropod dinosaurs. Although the type species, B. excelsus, had long been considered a species of the closely related Apatosaurus and therefore invalid, researchers proposed in 2015 that Brontosaurus is a genus separate from Apatosaurus and that it contains three species: B. excelsus, B. yahnahpin, and B. parvus. 
+**Brontosaurus** (/ˌbrɒntəˈsɔːrəs/; meaning "thunder lizard" from Greek βροντή, brontē "thunder" and σαῦρος, sauros "lizard") is a genus of gigantic quadruped sauropod dinosaurs. Although the type species, B. excelsus, had long been considered a species of the closely related Apatosaurus and therefore invalid, researchers proposed in 2015 that Brontosaurus is a genus separate from Apatosaurus and that it contains three species: B. excelsus, B. yahnahpin, and B. parvus. 
 
 Brontosaurus had a long, thin neck and a small head adapted for a herbivorous lifestyle, a bulky, heavy torso, and a long, whip-like tail. The various species lived during the Late Jurassic epoch, in the Morrison Formation of what is now North America, and were extinct by the end of the Jurassic. Adult individuals of Brontosaurus are estimated to have weighed up to 15 tonnes (17 short tons) and measured up to 22 metres (72 feet) long.
 
