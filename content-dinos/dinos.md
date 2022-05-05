@@ -14,11 +14,13 @@ While dinosaurs were ancestrally bipedal, many extinct groups included quadruped
 The first dinosaur fossils were recognized in the early 19th century, with the name "dinosaur" (meaning "terrible lizard") being coined by Sir Richard Owen in 1841 to refer to these "great fossil lizards". Since then, mounted fossil dinosaur skeletons have been major attractions at museums worldwide, and dinosaurs have become an enduring part of popular culture. The large sizes of some dinosaurs, as well as their seemingly monstrous and fantastic nature, have ensured their regular appearance in best-selling books and films, such as Jurassic Park. Persistent public enthusiasm for the animals has resulted in significant funding for dinosaur science, and new discoveries are regularly covered by the media. 
 
 
-|<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pasta-Brontosaurus.jpg/1200px-Pasta-Brontosaurus.jpg"  width="250">        |This is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.|
+|<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pasta-Brontosaurus.jpg/1200px-Pasta-Brontosaurus.jpg"  width="250">        ||This is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.|
 
 <br>
 <br>
 <br>
+|<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pasta-Brontosaurus.jpg/1200px-Pasta-Brontosaurus.jpg"  width="350">       |
+|This is a 1897 restoration of [Brontosaurus](content-dinos-1/brontosaurus.md) as an aquatic, tail-dragging animal, by Charles R. Knight, typified early views on dinosaur lifestyles.|
 <br>
 <br>
 
@@ -70,7 +72,7 @@ Based on fossil evidence from dinosaurs such as Oryctodromeus, some ornithischia
 
 ## Size
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Longest_dinosaur_by_clade.svg/1200px-Longest_dinosaur_by_clade.svg.png" alt="Longest dinosaur by clade.svg" width="450">
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Longest_dinosaur_by_clade.svg/1200px-Longest_dinosaur_by_clade.svg.png" alt="Longest dinosaur by clade.svg" width="410">
 Scale diagram comparing the average human to the longest known dinosaurs in five major clades:<br>
   - Sauropoda (Supersaurus vivianae)<br>
   - Ornithopoda (Shantungosaurus giganteus)<br>
