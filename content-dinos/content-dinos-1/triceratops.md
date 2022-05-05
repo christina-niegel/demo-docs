@@ -67,6 +67,6 @@ This article uses material from the Wikipedia article [Triceratops](https://en.w
 
 <br>
 
-[Back to dino content page](/../dinos.md)
+[Back to dino main page](/../dinos.md)
 
-[Back to main page](/../../index.md)
+[Back to start page](/../../index.md)
