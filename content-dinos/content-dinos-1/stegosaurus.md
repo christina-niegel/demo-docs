@@ -71,7 +71,7 @@ _This article uses material from the Wikipedia article [Stegosaurus](https://en.
 
 <br>
 
-[Back to main content page](/../dinos.md)
+[Back to dino main page](/../dinos.md)
 
 [Back to start page](/../../index.md)
 
