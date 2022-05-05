@@ -1,5 +1,6 @@
 # Dinosaurs
 
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Life_restoration_of_Iguanacolossus.jpg/1200px-Life_restoration_of_Iguanacolossus.jpg" alt="Life restoration of Iguanacolossus.jpg" width="600">
 
 Dinosaurs are a diverse group of reptiles of the clade Dinosauria. They first appeared during the Triassic period, between 243 and 233.23 million years ago, although the exact origin and timing of the evolution of dinosaurs is the subject of active research. They became the dominant terrestrial vertebrates after the Triassic–Jurassic extinction event 201.3 million years ago; their dominance continued throughout the Jurassic and Cretaceous periods. The fossil record shows that birds are modern feathered dinosaurs, having evolved from earlier theropods during the Late Jurassic epoch, and are the only dinosaur lineage known to have survived the Cretaceous–Paleogene extinction event approximately 66 million years ago. Dinosaurs can therefore be divided into avian dinosaurs, or birds; and the extinct non-avian dinosaurs, which are all dinosaurs other than birds.
 
@@ -68,7 +69,37 @@ Based on fossil evidence from dinosaurs such as Oryctodromeus, some ornithischia
 
 
 
+## Size
 
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Longest_dinosaur_by_clade.svg/1200px-Longest_dinosaur_by_clade.svg.png" alt="Longest dinosaur by clade.svg" width="400">
+Scale diagram comparing the average human to the longest known dinosaurs in five major clades:
+  Sauropoda (Supersaurus vivianae)
+  Ornithopoda (Shantungosaurus giganteus)
+  Theropoda (Spinosaurus aegyptiacus)
+  Thyreophora ([Stegosaurus ungulatus](content-dinos-1/stegosaurus.md))
+  Marginocephalia ([Triceratops prorsus](content-dinos-1/triceratops.md))
+
+
+Current evidence suggests that dinosaur average size varied through the Triassic, Early Jurassic, Late Jurassic and Cretaceous. Predatory theropod dinosaurs, which occupied most terrestrial carnivore niches during the Mesozoic, most often fall into the 100 to 1000 kg (220 to 2200 lb) category when sorted by estimated weight into categories based on order of magnitude, whereas recent predatory carnivoran mammals peak in the 10 to 100 kg (22 to 220 lb) category. The mode of Mesozoic dinosaur body masses is between 1 to 10 metric tons (1.1 to 11.0 short tons). This contrasts sharply with the average size of Cenozoic mammals, estimated by the National Museum of Natural History as about 2 to 5 kg (4.4 to 11.0 lb).
+
+
+The sauropods were the largest and heaviest dinosaurs. For much of the dinosaur era, the smallest sauropods were larger than anything else in their habitat, and the largest was an order of magnitude more massive than anything else that has since walked the Earth. Giant prehistoric mammals such as Paraceratherium (the largest land mammal ever) were dwarfed by the giant sauropods, and only modern whales approach or surpass them in size. There are several proposed advantages for the large size of sauropods, including protection from predation, reduction of energy use, and longevity, but it may be that the most important advantage was dietary. Large animals are more efficient at digestion than small animals, because food spends more time in their digestive systems. This also permits them to subsist on food with lower nutritive value than smaller animals. Sauropod remains are mostly found in rock formations interpreted as dry or seasonally dry, and the ability to eat large quantities of low-nutrient browse would have been advantageous in such environments.
+
+
+Scientists will probably never be certain of the largest and smallest dinosaurs to have ever existed. This is because only a tiny percentage of animals were ever fossilized and most of these remain buried in the earth. Few of the specimens that are recovered are complete skeletons, and impressions of skin and other soft tissues are rare. Rebuilding a complete skeleton by comparing the size and morphology of bones to those of similar, better-known species is an inexact art, and reconstructing the muscles and other organs of the living animal is, at best, a process of educated guesswork.
+
+
+The tallest and heaviest dinosaur known from good skeletons is Giraffatitan brancai (previously classified as a species of Brachiosaurus). Its remains were discovered in Tanzania between 1907 and 1912. Bones from several similar-sized individuals were incorporated into the skeleton now mounted and on display at the Museum für Naturkunde in Berlin; this mount is 12 meters (39 ft) tall and 21.8 to 22.5 meters (72 to 74 ft) long, and would have belonged to an animal that weighed between 30000 and 60000 kilograms (70000 and 130000 lb). The longest complete dinosaur is the 27 meters (89 ft) long Diplodocus, which was discovered in Wyoming in the United States and displayed in Pittsburgh's Carnegie Museum of Natural History in 1907. The longest dinosaur known from good fossil material is the Patagotitan: the skeleton mount in the American Museum of Natural History in New York is 37 meters (121 ft) long. The Museo Municipal Carmen Funes in Plaza Huincul, Argentina, has an Argentinosaurus reconstructed skeleton mount that is 39.7 meters (130 ft) long.
+An adult bee hummingbird, the smallest known dinosaur
+
+
+There were larger dinosaurs, but knowledge of them is based entirely on a small number of fragmentary fossils. Most of the largest herbivorous specimens on record were discovered in the 1970s or later, and include the massive Argentinosaurus, which may have weighed 80000 to 100000 kilograms (90 to 110 short tons) and reached lengths of 30 to 40 meters (98 to 131 ft); some of the longest were the 33.5-meter (110 ft) long Diplodocus hallorum (formerly Seismosaurus), the 33-to-34-meter (108 to 112 ft) long Supersaurus, and 37-meter (121 ft) long Patagotitan; and the tallest, the 18-meter (59 ft) tall Sauroposeidon, which could have reached a sixth-floor window. The heaviest and longest dinosaur may have been Maraapunisaurus, known only from a now lost partial vertebral neural arch described in 1878. Extrapolating from the illustration of this bone, the animal may have been 58 meters (190 ft) long and weighed 122400 kg (270000 lb). However, as no further evidence of sauropods of this size has been found, and the discoverer, Cope, had made typographic errors before, it is likely to have been an extreme overestimation.
+
+
+The largest carnivorous dinosaur was Spinosaurus, reaching a length of 12.6 to 18 meters (41 to 59 ft), and weighing 7 to 20.9 metric tons (7.7 to 23.0 short tons). Other large carnivorous theropods included Giganotosaurus, Carcharodontosaurus and Tyrannosaurus. Therizinosaurus and Deinocheirus were among the tallest of the theropods. The largest ornithischian dinosaur was probably the hadrosaurid Shantungosaurus giganteus which measured 16.6 meters (54 ft). The largest individuals may have weighed as much as 16 metric tons (18 short tons).
+
+
+The smallest dinosaur known is the bee hummingbird, with a length of only 5 centimeters (2.0 in) and mass of around 1.8 g (0.063 oz). The smallest known non-avialan dinosaurs were about the size of pigeons and were those theropods most closely related to birds. For example, Anchiornis huxleyi is currently the smallest non-avialan dinosaur described from an adult specimen, with an estimated weight of 110 g (3.9 oz) and a total skeletal length of 34 centimeters (1.12 ft). The smallest herbivorous non-avialan dinosaurs included Microceratus and Wannanosaurus, at about 60 centimeters (2.0 ft) long each. 
 
 
 
