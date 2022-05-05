@@ -3,7 +3,6 @@
 On this page we provide a couple of documents and texts that can be used for a demo. 
 <br>
 <br>
-<br>
 
 ### Usage and licence
 
@@ -11,26 +10,17 @@ Please note that the provided content is released under the [Creative Commons At
 <br>
 <br>
 
-
 ### Content types
 
 We provide different types of content. All the content is about dinosaurs and only for demo purposes.
 
-1. You can either use a **webpage** with some hyperlinks to subpages: 
-
-- Go to [Content Website](content-dinos/dinos.md)
+1. You can either use a **webpage** with some hyperlinks to subpages: [Content Website](content-dinos/dinos.md)
 <br>
 
-
-2. You can download a set of PDFs in a **zip folder**:
-
-- [Download PDF Content]({{ site.github.zip_url }})
+2. You can download a set of PDFs in a **zip folder**: [Download PDF Content]({{ site.github.zip_url }})
 <br>
 
-
-3. You can go to a subpage where **single PDFs** are provided using download links:
-
-- Go to [PDF Website](content-pdfs/Dinosaur_Wikipedia_Article.pdf)
+3. You can go to a subpage where **single PDFs** are provided using download links: [PDF Website](content-pdfs/Dinosaur_Wikipedia_Article.pdf)
 
 
 
