@@ -37,9 +37,18 @@ In 2011, Denver Fowler and colleagues suggested a new method by which dromaeosau
 
 Examinations of the endocranium of Velociraptor indicate that it was able to detect and hear a wide range of sound frequencies (2,368–3,965 Hz) and could track prey with ease as a result. The endocranium examinations also further cemented the theory that the dromaeosaur was an agile, swift predator. Fossil evidence suggesting Velociraptor scavenged also indicates that it was an opportunistic and actively predatory animal, feeding on carrion during times of drought or famine, if in poor health, or depending on the animal's age. 
 
-[Back to dino content page](/../dinos.md)
-
-[Back to main page](/../../index.md)
 
 
-This article uses material from the Wikipedia article [Velociraptor](https://en.wikipedia.org/wiki/Velociraptor), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")
+<br>
+<br>
+
+
+_This article uses material from the Wikipedia article [Velociraptor](https://en.wikipedia.org/wiki/Velociraptor), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")_
+
+<br>
+
+
+[Back to dino main page](/../dinos.md)
+
+[Back to start page](/../../index.md)
+
