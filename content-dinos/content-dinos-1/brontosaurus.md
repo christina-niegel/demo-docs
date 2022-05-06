@@ -23,16 +23,15 @@ Restoration of B. excelsus.
 The limb bones were also very robust. The arm bones are stout, with the humerus resembling that of Camarasaurus, and those of B. excelsus being nearly identical to those of Apatosaurus ajax. Charles Gilmore in 1936 noted that previous reconstructions erroneously proposed that the radius and ulna could cross, when in life they would have remained parallel. Brontosaurus had a single large claw on each forelimb, and the first three toes possessed claws on each foot. Even by 1936, it was recognized that no sauropod had more than one hand claw preserved, and this one claw is now accepted as the maximum number throughout the entire group. The single front claw bone is slightly curved and squarely shortened on the front end. The hip bones included robust ilia and the fused pubes and ischia. The tibia and fibula bones of the lower leg were different from the slender bones of Diplodocus, but nearly indistinguishable from those of Camarasaurus. The fibula is longer than the tibia, although it is also more slender.
 
 
+<br>
+<br>
+
+_This article uses material from the Wikipedia article [Brontosaurus](https://en.wikipedia.org/wiki/Brontosaurus), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")_
+
+<br>
 
 
-
-
-
-
-
-[Back to main content page](/../dinos.md)
+[Back to dino main page](/../dinos.md)
 
 [Back to start page](/../../index.md)
 
-
-_This article uses material from the Wikipedia article [Brontosaurus](https://en.wikipedia.org/wiki/Brontosaurus), which is released under the [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/")_
