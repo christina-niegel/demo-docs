@@ -22,7 +22,8 @@ As in other dromaeosaurs, Velociraptor tails had long bony projections (prezygap
 Fossils of dromaeosaurids more primitive than Velociraptor are known to have had feathers covering their bodies and fully developed feathered wings. The fact that the ancestors of Velociraptor were feathered and possibly capable of flight had long suggested to paleontologists that Velociraptor bore feathers as well, since even flightless birds today retain most of their feathers. In September 2007, researchers found quill knobs on the forearm of a Velociraptor found in Mongolia. These bumps on bird wing bones show where feathers anchor, and their presence on Velociraptor indicate it too had feathers. 
 
 ## Predatory behavior
-The "Fighting Dinosaurs" specimen of V. mongoliensis and Protoceratops andrewsi
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Velociraptor.jpg" alt="Velociraptor.jpg">
 
 The "Fighting Dinosaurs" specimen, found in 1971, preserves a Velociraptor mongoliensis and Protoceratops andrewsi in combat and provides direct evidence of predatory behavior. When originally reported, it was hypothesized that the two animals drowned. However, as the animals were preserved in ancient sand dune deposits, it is now thought that the animals were buried in sand, either from a collapsing dune or in a sandstorm. Burial must have been extremely fast, judging from the lifelike poses in which the animals were preserved. Parts of the Protoceratops are missing, which has been seen as evidence of scavenging by other animals. Comparisons between the scleral rings of Velociraptor, Protoceratops, and modern birds and reptiles indicates that Velociraptor may have been nocturnal, while Protoceratops may have been cathemeral, active throughout the day during short intervals, suggesting that the fight may have occurred at twilight or during low-light conditions.
 
