@@ -4,7 +4,7 @@
 - [Dinoasaurs](https://christina-niegel.github.io/demo-docs/content-pdfs/Dinosaur_Wikipedia_Article.pdf)
     - [Brontosaurus](https://christina-niegel.github.io/demo-docs/content-pdfs/BrontosaurusWikipedia_Article.pdf)
     - [Stegosaurus](https://christina-niegel.github.io/demo-docs/content-pdfs/Stegosaurus_Wikipedia_Article.pdf)
-    - [Triceratops](https://christina-niegel.github.io/demo-docs/content-pdfs/Triceratops_Wikipedia_Article.pdf
+    - [Triceratops](https://christina-niegel.github.io/demo-docs/content-pdfs/Triceratops_Wikipedia_Article.pdf)
     - [Tyrannosaurus](https://christina-niegel.github.io/demo-docs/content-pdfs/Tyrannosaurus_Wikipedia_Article.pdf)
     - [Velociraptor](https://christina-niegel.github.io/demo-docs/content-pdfs/Triceratops_Wikipedia_Article.pdf)
 - [Triceratops 2](https://christina-niegel.github.io/demo-docs/content-pdfs/Velociraptor_Wikipedia_Article.pdf)
