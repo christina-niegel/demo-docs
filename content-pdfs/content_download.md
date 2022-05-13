@@ -1,14 +1,14 @@
 # PDF Documents
 
-- [Dinoasaurs]({{ site.github.pdf_url_dinosaurs }})
-    - [Brontosaurus]({{ site.github.pdf_url_brontosaurus }})
-    - [Stegosaurus]({{ site.github.pdf_url_stegoraurus }})
-    - [Triceratops]({{ site.github.pdf_url_triceratops }})
-    - [Tyrannosaurus]({{ site.github.pdf_url_tyrannosaurus }})
-    - [Velociraptor]({{ site.github.pdf_url_velociraptor }})
-- [Triceratops 2](https://christina-niegel.github.io/demo-docs/content-pdfs/Triceratops_Wikipedia_Article.pdf)
 
-<embed src="Triceratops_Wikipedia_Article.pdf" type="application/pdf" width="450">
+- [Dinoasaurs](https://christina-niegel.github.io/demo-docs/content-pdfs/Dinosaur_Wikipedia_Article.pdf)
+    - [Brontosaurus](https://christina-niegel.github.io/demo-docs/content-pdfs/BrontosaurusWikipedia_Article.pdf)
+    - [Stegosaurus](https://christina-niegel.github.io/demo-docs/content-pdfs/Stegosaurus_Wikipedia_Article.pdf)
+    - [Triceratops](https://christina-niegel.github.io/demo-docs/content-pdfs/Triceratops_Wikipedia_Article.pdf
+    - [Tyrannosaurus](https://christina-niegel.github.io/demo-docs/content-pdfs/Tyrannosaurus_Wikipedia_Article.pdf)
+    - [Velociraptor](https://christina-niegel.github.io/demo-docs/content-pdfs/Triceratops_Wikipedia_Article.pdf)
+- [Triceratops 2](https://christina-niegel.github.io/demo-docs/content-pdfs/Velociraptor_Wikipedia_Article.pdf)
+
 <br>
 <br>
 <br>
