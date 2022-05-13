@@ -6,9 +6,9 @@
     - [Triceratops]({{ site.github.pdf_url_triceratops }})
     - [Tyrannosaurus]({{ site.github.pdf_url_tyrannosaurus }})
     - [Velociraptor]({{ site.github.pdf_url_velociraptor }})
+- [Triceratops 2](https://christina-niegel.github.io/demo-docs/content-pdfs/Triceratops_Wikipedia_Article.pdf)
 
-
-<embed src="Triceratops_Wikipedia_Article.pdf" type="application/pdf">
+<embed src="Triceratops_Wikipedia_Article.pdf" type="application/pdf" width="450">
 <br>
 <br>
 <br>
